@@ -118,7 +118,7 @@ export default class Presentation extends React.Component {
             }}
           >
             <iframe
-              src="http://inyono.github.io/storybook-talk/cuteify"
+              src="https://inyono.github.io/storybook-talk/cuteify"
               style={{ border: 'none', width: '100%', height: '100%' }}
             />
           </div>
@@ -137,7 +137,7 @@ export default class Presentation extends React.Component {
             }}
           >
             <iframe
-              src="http://inyono.github.io/storybook-talk/cuteify/storybook"
+              src="https://inyono.github.io/storybook-talk/cuteify/storybook"
               style={{ border: 'none', width: '100%', height: '100%' }}
             />
           </div>
