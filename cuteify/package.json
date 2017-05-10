@@ -1,8 +1,8 @@
 {
-  "name": "multistep",
+  "name": "cuteify",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://inyono.github.io/storybook-talk/cuteify",
+  "homepage": "https://inyono.github.io/storybook-talk/cuteify",
   "dependencies": {
     "material-ui": "^0.18.0",
     "react": "^15.5.4",
