@@ -1,0 +1,27 @@
+{
+  "name": "multistep",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://inyono.github.io/storybook-talk/cuteify",
+  "dependencies": {
+    "material-ui": "^0.18.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-stepzilla": "^4.5.0",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "devDependencies": {
+    "@kadira/storybook": "^2.21.0",
+    "prettier": "^1.3.1",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "format": "prettier --single-quote --write \"{{src,.storybook}/**/*,*}.js\"",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
+  }
+}
