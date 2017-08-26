@@ -2,6 +2,7 @@
 Storybook talk for [React Native Munich meetup](https://www.meetup.com/de-DE/react-native-munich/events/239693778/)
 
 * [Slides](https://inyono.github.io/storybook-talk/)
+* [Video Recording](https://youtu.be/oTIseMyNQY4)
 * [Cuteify: introductory example](https://inyono.github.io/storybook-talk/cuteify)
 * [Storybook for Cuteify](https://inyono.github.io/storybook-talk/cuteify/storybook)
 
